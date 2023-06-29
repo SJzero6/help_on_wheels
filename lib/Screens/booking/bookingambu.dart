@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class Booking_list extends StatefulWidget {
-  const Booking_list({super.key});
+class AmbuBooking extends StatefulWidget {
+  const AmbuBooking({super.key});
 
   @override
-  State<Booking_list> createState() => _Booking_listState();
+  State<AmbuBooking> createState() => _AmbuBookingState();
 }
 
-class _Booking_listState extends State<Booking_list> {
+class _AmbuBookingState extends State<AmbuBooking> {
 
   
     
