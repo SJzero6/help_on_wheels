@@ -1,33 +1,33 @@
- {
+{
   "project_info": {
-    "project_number": "648192494559",
-    "project_id": "helponwheels-31cdc",
-    "storage_bucket": "helponwheels-31cdc.appspot.com"
+    "project_number": "581905775593",
+    "project_id": "helponwheels-389708",
+    "storage_bucket": "helponwheels-389708.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:648192494559:android:ea1650589aa1f5d5ac926a",
+        "mobilesdk_app_id": "1:581905775593:android:6c52b24e008bfaa3f46978",
         "android_client_info": {
           "package_name": "com.example.help_on_wheels"
         }
       },
       "oauth_client": [
         {
-          "client_id": "648192494559-ueiocbvbag1luqhjlcfntem65klqqm9o.apps.googleusercontent.com",
+          "client_id": "581905775593-7njvei6fk949seeofecuetamu5e3tkis.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVjP6ozKDH4M8UDsceTiJqtYcxrO5_kt8"
+          "current_key": "AIzaSyAI4wBsOMm2C0LBNNpF6h5WiurZF1F5iiM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "648192494559-ueiocbvbag1luqhjlcfntem65klqqm9o.apps.googleusercontent.com",
+              "client_id": "581905775593-7njvei6fk949seeofecuetamu5e3tkis.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
